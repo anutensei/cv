@@ -1,5 +1,5 @@
 # Anna Tensen
-
+![Моё фото](foto.jpg)
 ## Contact
 - Email: anna.tensen@example.com
 - GitHub: [github.com/anutensei](https://github.com/anutensei)
